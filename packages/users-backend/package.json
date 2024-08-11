@@ -1,0 +1,17 @@
+{
+  "name": "@vuelder.js/users-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "@vuelder.js/common-backend": "*",
+    "mongoose": "^8.5.2",
+    "mongoose-paginate-v2": "^1.8.3"
+  }
+}

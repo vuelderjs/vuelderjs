@@ -1,0 +1,18 @@
+{
+    "name": "@vuelder.js/users-frontend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "peerDependencies": {
+      "@vuelder.js/common-frontend": "*",
+      "zod": "^3.23.8",
+      "vue": "^3.4.31"
+    }
+  }
+  
