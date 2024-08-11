@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "back": "cd packages/z/apps/backend && nodemon"
+  },
+  "workspaces": [
+    "packages/*",
+    "packages/z/apps/backend",
+    "packages/z/apps/frontend/vue-integration"
+  ]
+}
